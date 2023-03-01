@@ -1,0 +1,52 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+#cabecalho{
+    background-color:#7b6062;
+    color: #fff;
+}
+.container a{
+    color: #fff;
+    
+}
+header >.container a:hover{
+    color: #fff;
+    border-bottom: solid 1px #fff;
+}
+header > .container h2{
+    color: #fff;
+}
+h2.navbar-brand:hover{
+    cursor: pointer;
+    color: #fff;
+}
+.container .nav .nav-link.active{
+    background-color:  #af9a9c;
+  
+}
+
+#endereco .btn{
+    background-color: #413f3f;
+}
+#financiamento .btn,
+#aluguel .btn{
+    background-color: #413f3f;
+}
+#financiamento .btn:hover{
+   color:#fff;
+}
+#aluguel .btn:hover{
+    color: #fff;
+}
+#endereco button .btn:hover{
+    color: #fff;
+}
+#endereco .nav a{
+    color: #413f3f;
+}
+#endereco button{
+    color: #fff;
+}
+#endereco ul.nav{
+    justify-content: center;
+}
